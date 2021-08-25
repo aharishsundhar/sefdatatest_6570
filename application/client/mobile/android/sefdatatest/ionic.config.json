@@ -1,0 +1,7 @@
+{
+  "name": "sefdatatest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
